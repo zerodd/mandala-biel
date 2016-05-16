@@ -10,3 +10,13 @@ My [cousin] made this mandala drawing and I'm trying to make it interactive usin
 [two.js]: https://jonobr1.github.io/two.js/
 [three.js]: http://threejs.org/
 [cousin]: https://www.instagram.com/mandalascriativas/
+
+Tutorials and interesting links
+-------------------------------
+
+ - [ ] http://jonobr1.github.io/two.js/examples/
+ - [ ] http://code.tutsplus.com/tutorials/drawing-with-twojs--net-32024
+ - [ ] https://www.youtube.com/watch?v=uQc8YI8qLic
+ - [ ] http://www.javascriptoo.com/two-js
+ - [ ] http://iaminaki.com/two.js-tutorial/
+ - [ ] http://modernweb.com/2013/06/10/drawing-and-animating-with-two-js-and-illustrator/
